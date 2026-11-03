@@ -1,6 +1,6 @@
 # Greenhouse Jobs API: how to get every job from any Greenhouse job board as JSON
 
-Greenhouse exposes a **public, unauthenticated Job Board API** for every company that uses it for its careers page. No API key, no login. This repository documents the endpoints, the fields you get back, pagination and limits, and ships a dependency-free Python example.
+Greenhouse exposes a **public, unauthenticated Job Board API** for every company that uses it for its careers page. No API key, no login. This guide documents the endpoints, the fields you get back, pagination and limits, and ships a dependency-free Python example.
 
 ## The endpoint
 
