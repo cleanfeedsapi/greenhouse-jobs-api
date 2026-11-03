@@ -76,11 +76,8 @@ Search engines: `site:boards.greenhouse.io` or `site:job-boards.greenhouse.io`. 
 
 ## Hosted version, pay per result
 
-If you would rather not run and maintain this yourself, the same logic runs as a pay-per-result Apify Actor by CleanFeeds: https://apify.com/cleanfeedsapi/greenhouse-jobs-api ($1.50 per 1,000 rows, no subscription, JSON/CSV/Excel export, API, scheduling, n8n/Make/Zapier and MCP integrations). A multi-ATS variant that mixes Greenhouse, Lever, Ashby, Workday, SmartRecruiters and Recruitee boards in one run: https://apify.com/cleanfeedsapi/ats-jobs-feed
+If you would rather not run and maintain this yourself, the same logic runs as a pay-per-result Apify Actor by CleanFeeds: https://apify.com/cleanfeedsapi/greenhouse-jobs-feed ($1.50 per 1,000 rows, no subscription, JSON/CSV/Excel export, API, scheduling, n8n/Make/Zapier and MCP integrations). A multi-ATS variant that mixes Greenhouse, Lever, Ashby, Workday, SmartRecruiters and Recruitee boards in one run: https://apify.com/cleanfeedsapi/ats-jobs-feed
 
-Free sample data: a daily snapshot of about 10,000 open roles at 26 tech companies from these endpoints, CC BY 4.0: https://huggingface.co/datasets/cleanfeeds/tech-jobs-daily
-
-More feeds: https://cleanfeeds.dev
 
 ## Legal note
 
